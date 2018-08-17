@@ -1,0 +1,82 @@
+[
+  {
+    "name": "pink",
+    "hex": "#fe447d"
+  },
+  {
+    "name": "orange",
+    "hex": "#f78f2e"
+  },
+  {
+    "name": "yellow-orange",
+    "hex": "#fedc0c"
+  },
+  {
+    "name": "lime-green",
+    "hex": "#d1f20a"
+  },
+  {
+    "name": "emerald-green",
+    "hex": "#5cd05b"
+  },
+  {
+    "name": "teal",
+    "hex": "#03c1cd"
+  },
+  {
+    "name": "blue",
+    "hex": "#0e10e6"
+  },
+  {
+    "name": "violet",
+    "hex": "#9208e7"
+  },
+  {
+    "name": "red-orange",
+    "hex": "#f84c00"
+  },
+  {
+    "name": "yellow",
+    "hex": "#f3f354"
+  },
+  {
+    "name": "mint",
+    "hex": "#bff1e5"
+  },
+  {
+    "name": "green",
+    "hex": "#3bc335"
+  },
+  {
+    "name": "sea-green",
+    "hex": "#7af5ca"
+  },
+  {
+    "name": "light-blue",
+    "hex": "#448bff"
+  },
+  {
+    "name": "dark-blue",
+    "hex": "#101ab3"
+  },
+  {
+    "name": "fuchsia",
+    "hex": "#d645c8"
+  },
+  {
+    "name": "neon-green",
+    "hex": "#0afe15"
+  },
+  {
+    "name": "cyan",
+    "hex": "#0acdfe"
+  },
+  {
+    "name": "neon-orange",
+    "hex": "#ff9600"
+  },
+  {
+    "name": "dark-fuchsia",
+    "hex": "#b21ca1"
+  }
+]
